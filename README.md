@@ -1,5 +1,6 @@
 # projeto-your-trip
 Projeto de site de compras de pacotes de viagens.
 
-Link do site: coherent-passenger.surge.sh
+O site pode ser visualizado no link: coherent-passenger.surge.sh
+
 
